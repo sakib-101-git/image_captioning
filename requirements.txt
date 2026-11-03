@@ -1,0 +1,6 @@
+kaggle
+six
+pandas
+matplotlib
+pillow
+ipykernel
