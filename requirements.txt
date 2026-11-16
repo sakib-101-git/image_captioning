@@ -4,3 +4,7 @@ pandas
 matplotlib
 pillow
 ipykernel
+torch
+torchvision
+pycocoevalcap
+nltk
